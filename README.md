@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Albert 👋</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2AA9E0&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Building+Web+Applications;Frontend+%26+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1200&color=2AA9E0&center=true&vCenter=true&width=450&lines=Fullstack+Developer" alt="Typing SVG" />
 </div>
 
 ---
