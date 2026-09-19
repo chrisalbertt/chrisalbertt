@@ -9,14 +9,12 @@
 ---
 
 ### 🚀 About Me
-- 💻 Currently working as a **Fullstack Developer (Freelance)** at PT Global Aplikasi Siber
-- 🛠️ Menjalankan usaha sendiri di bidang **jasa pembuatan website**:
-  - Landing page / company profile
-  - Website CRUD sederhana untuk UMKM
-  - Sistem custom yang terintegrasi
-- 🌱 Terus belajar teknologi baru buat ningkatin skill development
-- 📍 Based in Solo Baru, Jawa Tengah, Indonesia
 
+Information Systems graduate with an interest in Full Stack Development. I am experienced in developing and maintaining websites using PHP (Laravel), as well as building mobile applications using Dart (Flutter) for both Android and iOS.
+
+I have worked on various web-based projects, including attendance systems, e-voting systems, school payment systems, pharmacy inventory systems, and Japanese language learning and examination platforms.
+
+In these projects, I have worked on feature development and improvements, database management, API integration, debugging, testing, and system optimization. I continue to develop my skills and experience in software development, particularly in web and mobile application development.
 ---
 
 ### 🧰 Tech Stack
