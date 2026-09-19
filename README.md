@@ -1,14 +1,18 @@
 <div align="center">
-  <h1>Hi there, I'm Albert 👋</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2AA9E0&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Freelance+Web+Developer;Building+Custom+Web+Solutions" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
   
-  <br>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Fullstack-Developer-2AA9E0?style=for-the-badge&logo=code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Freelance-Web%20Developer-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=2AA9E0&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Albert+%F0%9F%91%8B;Fullstack+Developer;I+build+modern+web+apps" alt="Typing SVG" />
+  </h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Frontend+%E2%80%A2+Backend+%E2%80%A2+Database+%E2%80%A2+API;Passionate+about+clean+code+%26+great+UX" alt="Subtitle" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Fullstack-Developer-2AA9E0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Freelance-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+
 </div>
 
 ---
