@@ -1,8 +1,8 @@
-<div align="center">
+<<div align="center">
 
-# Hi there, I'm Albert 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AA9E0,100:8E44AD&height=220&section=header&text=Hi%20there,%20I'm%20Albert%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Freelance%20Web%20Developer&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9E0&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Freelance+Web+Developer;Building+Custom+Web+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9E0&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Freelance+Web+Developer+%F0%9F%8C%90;Building+Custom+Web+Solutions+%E2%9A%99%EF%B8%8F;Always+Learning+New+Tech+%F0%9F%8C%B1" />
 
 </div>
 
