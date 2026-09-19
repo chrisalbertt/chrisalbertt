@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Albert 👋</h1>
-  <h3>Fullstack Developer</h3>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=999999&color=7CA4F7&center=true&vCenter=true&width=480&lines=Fullstack+Developer" alt="Fullstack Developer" />
 </div>
 
 ---
