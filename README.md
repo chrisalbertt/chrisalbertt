@@ -48,14 +48,14 @@ In these projects, I have worked on feature development and improvements, databa
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=chrisalbertt&theme=tokyonight&hide_border=false" width="100%" />
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chrisalbertt&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" />
     </td>
   </tr>
