@@ -1,25 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Albert+👋" alt="Hi there, I'm Albert" />
+  <h1>Hi there, I'm Albert 👋</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=999999&color=7CA4F7&center=true&vCenter=true&width=480&lines=Fullstack+Developer" alt="Fullstack Developer" />
 </div>
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=300&lines=🚀+About+Me" alt="About Me" />
-</p>
-
+### 🚀 About Me
 Information Systems graduate with an interest in Full Stack Development. I am experienced in developing and maintaining websites using PHP (Laravel), as well as building mobile applications using Dart (Flutter) for both Android and iOS. I have worked on various web-based projects, including attendance systems, e-voting systems, school payment systems, pharmacy inventory systems, and Japanese language learning and examination platforms.
 
 In these projects, I have worked on feature development and improvements, database management, API integration, debugging, testing, and system optimization. I continue to develop my skills and experience in software development, particularly in web and mobile application development.
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=320&lines=🧰+Tech+Stack" alt="Tech Stack" />
-</p>
-
+### 🧰 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -54,9 +48,7 @@ In these projects, I have worked on feature development and improvements, databa
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=320&lines=📊+GitHub+Stats" alt="GitHub Stats" />
-</p>
+### 📊 GitHub Stats
 
 <table align="center" width="100%">
   <tr>
@@ -71,10 +63,7 @@ In these projects, I have worked on feature development and improvements, databa
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=320&lines=📫+Let's+Connect" alt="Let's Connect" />
-</p>
-
+### 📫 Let's Connect
 <p align="left">
   <a href="mailto:christopheralbert957@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/christopheralbertsantoso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -82,4 +71,3 @@ In these projects, I have worked on feature development and improvements, databa
 </p>
 
 ---
-```
