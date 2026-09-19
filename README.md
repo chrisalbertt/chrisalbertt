@@ -49,8 +49,8 @@ In these projects, I have worked on feature development and improvements, databa
 ---
 
 ### 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=chrisalbertt&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chrisalbertt&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=chrisalbertt&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chrisalbertt&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=chrisalbertt&icon=0&color=0)](https://visitcount.itsvg.in)
