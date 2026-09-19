@@ -63,7 +63,3 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:2AA9E0&height=100&section=footer" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chrisalbertt&color=blueviolet&style=flat" alt="profile views" />
-</div>
