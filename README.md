@@ -59,11 +59,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=chrisalbertt&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisalbertt&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=chrisalbertt&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
