@@ -52,11 +52,11 @@ In these projects, I have worked on feature development and improvements, databa
 
 <table>
   <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=chrisalbertt&theme=tokyonight&hide_border=false" />
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com/?user=chrisalbertt&theme=tokyonight&hide_border=false" width="100%" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chrisalbertt&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <td width="50%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chrisalbertt&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" />
     </td>
   </tr>
 </table>
@@ -64,8 +64,6 @@ In these projects, I have worked on feature development and improvements, databa
 ---
 
 [![](https://komarev.com/ghpvc/?username=chrisalbertt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
